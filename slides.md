@@ -288,6 +288,18 @@ layout: statement
 layout: statement
 ---
 
+# nix-darwin: Nix in macOS
+
+---
+layout: statement
+---
+
+# It's a weird community
+
+---
+layout: statement
+---
+
 # Q&amp;A
 
 ---
