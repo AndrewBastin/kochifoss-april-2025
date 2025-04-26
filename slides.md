@@ -294,4 +294,5 @@ layout: statement
 layout: statement
 ---
 
-# Fin.
+<img src="./images/flaky-bois.png" />
+
